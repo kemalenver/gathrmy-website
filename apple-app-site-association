@@ -1,0 +1,18 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["PDT9S226TJ.com.gathr.app.ios"],
+        "components": [
+          {
+            "/": "/invite",
+            "?": {
+              "c": "*"
+            },
+            "comment": "Circle invite links - gathrmy.com/invite?c=<join-code>"
+          }
+        ]
+      }
+    ]
+  }
+}
