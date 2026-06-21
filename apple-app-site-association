@@ -5,8 +5,11 @@
         "appIDs": ["5Q9PQGPZ6M.com.gathr.app.ios"],
         "components": [
           {
-            "/": "/i/*",
-            "comment": "Circle invite links — gathrmy.com/i/<join-code>"
+            "/": "/invite",
+            "?": {
+              "c": "*"
+            },
+            "comment": "Circle invite links - gathrmy.com/invite?c=<join-code>"
           }
         ]
       }
